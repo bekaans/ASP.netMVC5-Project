@@ -27,6 +27,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "bekaans.WFCIISHost", "bekaa
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "53916"
+		SlnRelativePath = "bekaans.WFCIISHost\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -35,6 +36,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bekaans.MvcWebUI", "bekaans.MvcWebUI\bekaans.MvcWebUI.csproj", "{E0CB9FE6-C902-4C41-A794-6B1491ABB4EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bekaans.MvcWebUI.Tests", "bekaans.MvcWebUI.Tests\bekaans.MvcWebUI.Tests.csproj", "{FBFB275A-B41B-42B7-9939-BB3C27EDF4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bekaans.Interfaces", "bekaans.Interfaces\bekaans.Interfaces.csproj", "{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +73,10 @@ Global
 		{FBFB275A-B41B-42B7-9939-BB3C27EDF4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBFB275A-B41B-42B7-9939-BB3C27EDF4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBFB275A-B41B-42B7-9939-BB3C27EDF4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

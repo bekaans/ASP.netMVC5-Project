@@ -41,7 +41,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Concrete\ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bekaans.DataAccessLayer\bekaans.DataAccessLayer.csproj">
+      <Project>{2C00AD36-C4AF-4B8C-A8A7-C9CE3D19A40F}</Project>
+      <Name>bekaans.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\bekaans.Entities\bekaans.Entities.csproj">
+      <Project>{F949C217-6C3F-4EA3-B085-D81E0CDC2131}</Project>
+      <Name>bekaans.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\bekaans.Interfaces\bekaans.Interfaces.csproj">
+      <Project>{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}</Project>
+      <Name>bekaans.Interfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
