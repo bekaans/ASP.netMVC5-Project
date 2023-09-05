@@ -1,5 +1,6 @@
 ﻿using bekaans.BLL.Concrete;
 using bekaans.DataAccessLayer.Concrete.EntityFramework;
+using bekaans.Entities;
 using bekaans.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -18,10 +19,21 @@ namespace bekaans.MvcWebUI.Controllers
             _iproductservice = iproductservice;
         }
 
-        // GET: Product
-        public ActionResult Index()
+
+        public int pageSize = 5;
+        public ActionResult Index(int page=1)
         {
-            return View(_iproductservice.GetAll());
+            List<Product> products = _iproductservice.GetAll();
+            return View(new ProductViewModel
+            {
+                Products = products.Skip((page-1)*pageSize).Take(5).ToList(),
+                Paginginfo = new PagingInfo
+                {
+                    ItemsPerPage = pageSize,
+                    TotalItems = products.Count,
+                    CurrentPage = page
+                }
+            }) ;
         }
     }
 }
