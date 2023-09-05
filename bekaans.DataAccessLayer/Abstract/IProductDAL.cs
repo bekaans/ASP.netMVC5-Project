@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace bekaans.DataAccessLayer.Abstract
 {
-    public interface IProductDA 
+    public interface IProductDAL
     {
         List<Product> GetAll();
         Product Get(int productid);

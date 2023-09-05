@@ -39,7 +39,8 @@ namespace bekaans.DataAccessLayer.Concrete.EntityFramework
 
         public void UpdateProduct(Product product)
         {
-            Product productToUpdate = _context.Products.FirstOrDefault(x => x.ProductID == product.ProductID);
+            Product 
+            productToUpdate = _context.Products.FirstOrDefault(x => x.ProductID == product.ProductID);
             productToUpdate.ProductName = product.ProductName;
             productToUpdate.CategoryID = product.CategoryID;
             productToUpdate.UnitPrice = product.UnitPrice;
