@@ -9,32 +9,39 @@ using System.Threading.Tasks;
 
 namespace bekaans.BLL.Concrete
 {
-    IProductDAL
+   
     public class ProductManager : IProductService
-    {
-        public void AddProduct(Product product)
+    { 
+        IProductDAL _iproductdal;
+
+        public ProductManager(IProductDAL iproductdal)
         {
-            throw new NotImplementedException();
+            _iproductdal = iproductdal;
+        }
+
+        public void AddProduct(Product product)
+        { 
+          _iproductdal.AddProduct(product);
         }
 
         public void DeleteProduct(int product)
         {
-            throw new NotImplementedException();
+           _iproductdal.DeleteProduct(product);
         }
 
-        public Product Get()
+        public Product Get(int productid)
         {
-            throw new NotImplementedException();
+            return _iproductdal.Get(productid);
         }
 
         public List<Product> GetAll()
         {
-            throw new NotImplementedException();
+           return _iproductdal.GetAll();
         }
 
         public void UpdateProduct(Product product)
         {
-            throw new NotImplementedException();
+           _iproductdal.UpdateProduct(product);
         }
     }
 }
