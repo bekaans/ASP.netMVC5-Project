@@ -7,3 +7,14 @@ C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfa
 C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.csproj.CopyComplete
 C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.dll
 C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.DataAccessLayer.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.DataAccessLayer.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.DataAccessLayer.dll.config
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.Interfaces.dll.config
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.Entities.dll.config
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\EntityFramework.SqlServer.xml

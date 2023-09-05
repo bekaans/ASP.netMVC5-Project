@@ -12,7 +12,7 @@ EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "bekaans.WFCIISHost", "bekaans.WFCIISHost\", "{76A48B5C-9A76-437F-90E7-43CDACEAB2B2}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
-		ProjectReferences = "{6f355b4c-5c6e-4d98-987c-8ac035f5e71b}|bekaans.WCFLibrary.dll;"
+		ProjectReferences = "{6f355b4c-5c6e-4d98-987c-8ac035f5e71b}|bekaans.WCFLibrary.dll;{11665E41-7B8F-4263-9F25-068646E2A37C}|bekaans.BLL.dll;{2C00AD36-C4AF-4B8C-A8A7-C9CE3D19A40F}|bekaans.DataAccessLayer.dll;{F949C217-6C3F-4EA3-B085-D81E0CDC2131}|bekaans.Entities.dll;{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}|bekaans.Interfaces.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_53916"
 		Debug.AspNetCompiler.PhysicalPath = "bekaans.WFCIISHost\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53916\"

@@ -1,0 +1,16 @@
+﻿@using bekaans.Entities
+@model List<Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var item in Model)
+{
+    @item.ProductID
+    <br />
+    @item.ProductName
+    <br />
+    
+}

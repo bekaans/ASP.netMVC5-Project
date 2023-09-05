@@ -4,3 +4,11 @@ C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\obj\Debug\bekaans.Entities.
 C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\obj\Debug\bekaans.Entities.csproj.CoreCompileInputs.cache
 C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\obj\Debug\bekaans.Entities.dll
 C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\obj\Debug\bekaans.Entities.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\obj\Debug\bekaans.Entities.csproj.CopyComplete
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\bin\Debug\bekaans.Entities.dll.config
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Entities\bin\Debug\EntityFramework.SqlServer.xml
