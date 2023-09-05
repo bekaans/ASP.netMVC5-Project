@@ -10,7 +10,7 @@ namespace bekaans.Interfaces
     public interface IProductService
     {
         List<Product> GetAll();
-        Product Get();
+        Product Get(int productid);
         void AddProduct(Product product);
         void DeleteProduct(int product);
         void UpdateProduct(Product product);
