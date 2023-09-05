@@ -12,5 +12,7 @@ namespace bekaans.Entities
         public string ProductName { get; set; }
         public int UnitsInStock { get; set; }
         public decimal UnitPrice { get; set; }
+
+        public int CategoryID { get; set; }
     }
 }
