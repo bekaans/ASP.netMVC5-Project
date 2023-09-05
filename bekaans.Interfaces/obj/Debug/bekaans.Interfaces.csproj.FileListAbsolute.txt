@@ -1,0 +1,9 @@
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.Interfaces.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.Interfaces.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.Entities.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\bin\Debug\bekaans.Entities.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.csproj.CopyComplete
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.Interfaces\obj\Debug\bekaans.Interfaces.pdb

@@ -1,0 +1,16 @@
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.BLL.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.BLL.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.DataAccessLayer.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.Entities.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.Interfaces.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.DataAccessLayer.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.DataAccessLayer.dll.config
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.Entities.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\bekaans.Interfaces.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\obj\Debug\bekaans.BLL.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\obj\Debug\bekaans.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\obj\Debug\bekaans.BLL.csproj.CopyComplete
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\obj\Debug\bekaans.BLL.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.BLL\obj\Debug\bekaans.BLL.pdb

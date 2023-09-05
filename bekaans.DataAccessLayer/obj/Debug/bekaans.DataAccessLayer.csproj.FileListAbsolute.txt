@@ -1,0 +1,14 @@
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\bekaans.DataAccessLayer.dll.config
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\bekaans.DataAccessLayer.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\bekaans.DataAccessLayer.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\bekaans.Entities.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\bekaans.Entities.pdb
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\obj\Debug\bekaans.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\obj\Debug\bekaans.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\obj\Debug\bekaans.DataAccessLayer.csproj.CopyComplete
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\obj\Debug\bekaans.DataAccessLayer.dll
+C:\Users\Berke Kaan\Desktop\bekaans\bekaans.DataAccessLayer\obj\Debug\bekaans.DataAccessLayer.pdb

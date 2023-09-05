@@ -44,10 +44,29 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Concrete\ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bekaans.BLL\bekaans.BLL.csproj">
+      <Project>{11665e41-7b8f-4263-9f25-068646e2a37c}</Project>
+      <Name>bekaans.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\bekaans.DataAccessLayer\bekaans.DataAccessLayer.csproj">
+      <Project>{2c00ad36-c4af-4b8c-a8a7-c9ce3d19a40f}</Project>
+      <Name>bekaans.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\bekaans.Entities\bekaans.Entities.csproj">
+      <Project>{f949c217-6c3f-4ea3-b085-d81e0cdc2131}</Project>
+      <Name>bekaans.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\bekaans.Interfaces\bekaans.Interfaces.csproj">
+      <Project>{809D4CFC-2F2F-4A01-ADDC-8158B2EAE8AC}</Project>
+      <Name>bekaans.Interfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
