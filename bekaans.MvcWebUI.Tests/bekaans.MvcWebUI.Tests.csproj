@@ -98,6 +98,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bekaans.MvcWebUI\bekaans.MvcWebUI.csproj">
+      <Project>{E0CB9FE6-C902-4C41-A794-6B1491ABB4EE}</Project>
+      <Name>bekaans.MvcWebUI</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
