@@ -27,6 +27,7 @@ namespace bekaans.MvcWebUI.Infrastructure
         private void AddBllBindings()
         {
             _ninjectKernel.Bind<IProductService>().To<ProductManager>().WithConstructorArgument("productdal", new EFProductDAL());
+            _ninjectKernel.Bind<ICategoryService>().To<CategoryManager>().WithConstructorArgument("categorydal", new EFCategoryDAL());
         }
     }
 }

@@ -21,9 +21,9 @@ namespace bekaans.MvcWebUI.Controllers
 
 
         public int pageSize = 5;
-        public ActionResult Index(int page=1)
+        public ActionResult Index(int page=1,int category=1)
         {
-            List<Product> products = _iproductservice.GetAll();
+            List<Product> products = _iproductservice.GetAll().Where(p=>p.CategoryID==category).ToList();
             return View(new ProductViewModel
             {
                 Products = products.Skip((page-1)*pageSize).Take(5).ToList(),
